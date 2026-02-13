@@ -2,7 +2,7 @@
 
 This is some tinkering that I did with the SPIN Model Checker in the Summer of 2024 while I was doing a Reading Project under Dr. Rajarshi Ray.
 
-While I did explore the syntax of SPIN to some extent, as a learning assignment I tried to model the Peterson's algorithm for two processes.
+Here, I tried to model the Peterson's algorithm for 2 processes.
 
 ## How to open this, provided you have SPIN installed
 
